@@ -1,0 +1,10 @@
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.exe.config
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.exe
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.pdb
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\MiniProyecto.csproj.AssemblyReference.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.Principal.resources
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.Properties.Resources.resources
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\MiniProyecto.csproj.GenerateResource.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\MiniProyecto.csproj.CoreCompileInputs.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.exe
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.pdb

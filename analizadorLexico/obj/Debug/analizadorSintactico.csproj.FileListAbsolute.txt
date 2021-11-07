@@ -1,0 +1,40 @@
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\bin\Debug\analizadorLexico.exe.config
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\bin\Debug\analizadorLexico.exe
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\bin\Debug\analizadorLexico.pdb
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorSintactico.csprojAssemblyReference.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.Principal.resources
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.Properties.Resources.resources
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorSintactico.csproj.GenerateResource.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorSintactico.csproj.CoreCompileInputs.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.exe
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Sintactico\Tarea 5\analizadorLexico\obj\Debug\analizadorLexico.pdb
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\obj\Debug\analizadorSintactico.csprojAssemblyReference.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.Principal.resources
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.Properties.Resources.resources
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\obj\Debug\analizadorSintactico.csproj.GenerateResource.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\obj\Debug\analizadorSintactico.csproj.CoreCompileInputs.cache
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.exe
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.pdb
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\bin\Debug\analizadorLexico.exe.config
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\bin\Debug\analizadorLexico.exe
+D:\Practicas\Cosas de C#\Actividades STL II\Analizador Semantico\Tarea 6\analizadorLexico\bin\Debug\analizadorLexico.pdb
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\bin\Debug\analizadorLexico.exe.config
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\bin\Debug\analizadorLexico.exe
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\bin\Debug\analizadorLexico.pdb
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\obj\Debug\analizadorSintactico.csprojAssemblyReference.cache
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.Principal.resources
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.Properties.Resources.resources
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\obj\Debug\analizadorSintactico.csproj.GenerateResource.cache
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\obj\Debug\analizadorSintactico.csproj.CoreCompileInputs.cache
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.exe
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Tarea 6\analizadorLexico\obj\Debug\analizadorLexico.pdb
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorSintactico.csproj.AssemblyReference.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.Principal.resources
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.Properties.Resources.resources
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorSintactico.csproj.GenerateResource.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorSintactico.csproj.CoreCompileInputs.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.exe
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.pdb
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.exe.config
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.exe
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.pdb
